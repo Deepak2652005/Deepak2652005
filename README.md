@@ -70,7 +70,7 @@ Cybersecurity-focused B.Tech CSE student with structured knowledge of SOC workfl
 # 📜 Certifications & Learning Path
 
 - ServiceNow University Virtual Internship (AICTE & NASSCOM)  
-- Preparing for CompTIA Security+  
+
 - Structured SOC Skill Development Roadmap  
 
 ---
